@@ -1,0 +1,53 @@
+/* Esto es un comentario de una o variaas lineas */
+
+body{
+    background-color: grey;
+}
+
+.pDiferente{
+    color: blue;
+}
+
+.negritaSemantica{
+    color: aqua;
+}
+
+/* Colores */
+/* Nombre de color */
+
+/* Codigo hexadecimal */
+
+.pkv{
+    color: black;
+}
+
+.colorRGB{
+    color: rgb(245,160,10);
+    padding: 20px;
+    
+    margin: auto;
+}
+
+.divRGBA{
+    width: 50%;
+    background-color: rgba(11, 60, 8, 0.5);
+    padding: 20px;
+    margin-top: 50px;
+}
+
+.divHSL{
+    width: 50%;
+    background-color: hsl(177, 92%, 17%);
+    padding: 20px;
+    margin-top: 50px;
+}
+
+.Audio{
+    padding: 50px;
+    margin-top: 50px;
+}
+
+.Video{
+    padding: 50px;
+    margin-top: 50px;
+}
